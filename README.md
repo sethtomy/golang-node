@@ -6,5 +6,5 @@ Dockerfile repository for images with node and golang installed.
 
 ## 1.16-12
 
-Node.js 12.x
-Golang 1.16.x
+* Node.js 12.x
+* Golang 1.16.x
